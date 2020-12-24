@@ -1,0 +1,17 @@
+#### :computer: Comando SQL que foram usados nos Arquivos acima::boom:
+- Add (Adicionar).
+- Alter Table (Alterar tabelas).
+- Auto Increment (Inseri números automaticamente).
+- Constraints (Restrições).
+- Create DataBase (Criando um banco de dados).
+- Create Table (Criando tabelas).
+- Datetime (Define uma data combinada com uma hora do dia que inclui frações de segundos e se baseia em um período de 24 horas).
+- Delete (Deletado dados de uma tabela).
+- Foreign Key (Chave Estrangeira).
+- Int (Tipo de dado inteiro).
+- Not Null (Não nulo).
+- Primary Key (Chave primária).
+- References (Faz referência).
+- Text (Tipos de dados em texto).
+- Update (Atualizar dados de uma tabela).
+- Varchar(Tipos de dados de caractere que sejam de tamanho fixo).
