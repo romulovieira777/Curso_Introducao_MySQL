@@ -1,0 +1,107 @@
+/* Selecionando Dados da Tabela Livros */
+SELECT
+	* 
+FROM
+	TBL_LIVROS;
+
+
+SELECT 
+	* 
+FROM
+	TBL_LIVROS
+WHERE
+	IdLivro = 2;
+
+
+SELECT
+	*
+FROM
+	TBL_LIVROS
+WHERE
+	IdEditora = 3;
+
+
+SELECT
+	*
+FROM
+	TBL_LIVROS
+WHERE
+	Nome LIKE '%harry%';
+
+
+SELECT
+	*
+FROM
+	TBL_LIVROS
+WHERE
+	Paginas >= 400;
+
+
+SELECT
+	*
+FROM
+	TBL_LIVROS
+WHERE
+	Nome NOT LIKE '%harry%'.
+
+
+SELECT
+	*
+FROM
+	TBL_LIVROS
+WHERE
+	Paginas BETWEEN 300 AND 500;
+
+
+SELECT
+	*
+FROM
+	TBL_LIVROS
+WHERE
+	DataLancamento BETWEEN '2016-01-01 00:00:00.000000' AND '2019-06-09 00:00:00.000000';
+
+
+SELECT
+	*
+FROM
+	TBL_LIVROS
+WHERE
+	Nome LIKE '%harry%' 
+AND
+	Paginas <= 400;
+
+
+SELECT
+	ISBN
+  , Nome
+FROM
+	TBL_LIVROS;
+
+
+SELECT
+	IdEditora
+  , SUM(Valor)
+  , COUNT(IdEditora)
+FROM
+	TBL_LIVROS
+GROUP BY
+	IdEditora;
+
+
+SELECT
+	IdEditora AS "Editora"
+  , SUM(Valor) AS "SOMA"
+  , COUNT(IdLivro) AS "QUANTIDADE"
+FROM
+	TBL_LIVROS
+GROUP BY
+	IdEditora;
+
+
+SELECT
+	ISBN
+  , Nome
+FROM
+	TBL_LIVROS
+ORDER BY
+	Nome ASC;
