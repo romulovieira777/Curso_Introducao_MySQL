@@ -9,7 +9,9 @@
 - Delete (Deletado dados de uma tabela).
 - Foreign Key (Chave Estrangeira).
 - Int (Tipo de dado inteiro).
+- Insert Into e Values (Inserindo dados em uma tabela).
 - Not Null (Não nulo).
+- Null (Valores nulos).
 - Primary Key (Chave primária).
 - References (Faz referência).
 - Text (Tipos de dados em texto).
