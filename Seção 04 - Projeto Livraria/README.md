@@ -14,6 +14,8 @@
 - Null (Valores nulos).
 - Primary Key (Chave primária).
 - References (Faz referência).
+- Set (Define a variável local especificada).
 - Text (Tipos de dados em texto).
 - Update (Atualizar dados de uma tabela).
 - Varchar(Tipos de dados de caractere que sejam de tamanho fixo).
+- Where (Fitrar resultados da consulta).
