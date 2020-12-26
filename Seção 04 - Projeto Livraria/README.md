@@ -11,8 +11,10 @@
 - Create Table (Criando tabelas).
 - Datetime (Define uma data combinada com uma hora do dia que inclui frações de segundos e se baseia em um período de 24 horas).
 - Delete (Deletado dados de uma tabela).
+- Left Join (Retorna todas as linhas da tabela da esquerda, mesmo se não houver nenhuma correspondência na tabela à direita).
 - Foreign Key (Chave Estrangeira).
 - Group By (Agrupamento de registros).
+- Inner Join (Retorna linhas quando houver pelo menos uma correspondência em ambas as tabelas).
 - Int (Tipo de dado inteiro).
 - Insert Into e Values (Inserindo dados em uma tabela).
 - Like (Determina se uma cadeia de caracteres são correspondente).
