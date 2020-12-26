@@ -1,21 +1,35 @@
 #### :computer: Comando SQL que foram usados nos Arquivos acima::boom:
 - Add (Adicionar).
 - Alter Table (Alterar tabelas).
+- And (Filtra um registro se ambos forem verdadeiros em uma consulta).
+- AS (Nome alternativo para colunas ou tabelas).
 - Auto Increment (Inseri números automaticamente).
+- Between (Seleção de intervalo em registros).
 - Constraints (Restrições).
+- Count (Contagem dos itens selecionados ou registros)
 - Create DataBase (Criando um banco de dados).
 - Create Table (Criando tabelas).
 - Datetime (Define uma data combinada com uma hora do dia que inclui frações de segundos e se baseia em um período de 24 horas).
 - Delete (Deletado dados de uma tabela).
 - Foreign Key (Chave Estrangeira).
+- Group By (Agrupamento de registros).
 - Int (Tipo de dado inteiro).
 - Insert Into e Values (Inserindo dados em uma tabela).
+- Like (Determina se uma cadeia de caracteres são correspondente).
+- Not Like (Inverte a comparação de caracteres).
 - Not Null (Não nulo).
 - Null (Valores nulos).
+- Order By (Ordenação).
 - Primary Key (Chave primária).
 - References (Faz referência).
+- Select From (Consulta simples de uma tabela).
 - Set (Define a variável local especificada).
+- Sum (Soma).
 - Text (Tipos de dados em texto).
 - Update (Atualizar dados de uma tabela).
 - Varchar(Tipos de dados de caractere que sejam de tamanho fixo).
 - Where (Fitrar resultados da consulta).
+- % (Caracter coringa).
+- = (Verifica se o dado é igual).
+- >= (Verifica se o dado é maior ou igual).
+- <= (Verifica se o dado é menor ou igual).
