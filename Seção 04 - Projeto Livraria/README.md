@@ -31,5 +31,5 @@
 - Where (Fitrar resultados da consulta).
 - % (Caracter coringa).
 - = (Verifica se o dado é igual).
-- >= (Verifica se o dado é maior ou igual).
+- (>= Verifica se o dado é maior ou igual).
 - <= (Verifica se o dado é menor ou igual).
